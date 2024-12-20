@@ -10,3 +10,5 @@ Write a solution to find the ids of products that are both low fat and recyclabl
 Return the result table in any order.
 
 The result format is in the following example.
+
+![image](https://github.com/SivaKarthik711/MySQL/blob/d704d36a23948f4b74a014038bf91c5de94b8ffc/Leetcode_50_Probelm_1/Screenshot%202024-12-20%20001010.png)
